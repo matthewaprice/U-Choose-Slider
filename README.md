@@ -63,3 +63,9 @@ jQuery(document).ready(function() {
 	&lt;a class="carousel-control right" href="#my_carousel" data-slide="next"&gt;&rsaquo;&lt;/a&gt;
 &lt;/div&gt;	
 </pre>
+
+Here are some screenshots to see it in action
+
+<p><img src="http://matthewaprice.com/assets/uchoose1.png"></p>
+<p><img src="http://matthewaprice.com/assets/uchoose2.png"></p>
+<p><img src="http://matthewaprice.com/assets/uchoose3.png"></p>
