@@ -89,7 +89,7 @@ class UCS_Slider {
 						<th scope="row"><label for="_slider_image">Slider Image</label></th>
 						<td>
 							<input name="_slider_image" type="text" id="_slider_image" value="" class="regular-text">
-							<p class="description">Upload the image to the <a href="/wp-admin/upload.php">media library</a> and then paste in the url here. (size: 710w x 300h)</p>							
+							<p class="description">Upload the image to the <a href="/wp-admin/upload.php">media library</a> and then paste in the url here.</p>							
 						</td>
 					</tr>
 					<tr valign="top">
@@ -161,7 +161,7 @@ class UCS_Slider {
 										<th scope="row"><label for="_slider_image">Slider Image</label></th>
 										<td>
 											<input name="_slider_image" type="text" id="_slider_image" value="<?php echo $image->slider_image; ?>" class="regular-text">
-											<p class="description">Upload the image to the <a href="/wp-admin/upload.php">media library</a> and then paste in the url here. (size: 710w x 300h)</p>							
+											<p class="description">Upload the image to the <a href="/wp-admin/upload.php">media library</a> and then paste in the url here.</p>							
 										</td>
 									</tr>																											
 										<tr valign="top">
