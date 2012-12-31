@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: U Choose Slider
-Plugin URI: http://matthewaprice.com
+Plugin URI: http://matthewaprice.com/u-choose-slider-plugin/
 Description: This plugin allows you to store information for a slider in the database and then gives you a function to use on your template.  YOu can then use ANY js slider that you want.  It stores the following: title, description, link, url to image, and an active/inactive button to manage your slider images.
 Version: 1.0
 Author: Matthew Price
