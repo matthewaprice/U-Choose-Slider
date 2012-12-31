@@ -66,6 +66,19 @@ jQuery(document).ready(function() {
 
 Here are some screenshots to see it in action
 
-<p><img src="http://matthewaprice.com/assets/uchoose1.png"></p>
-<p><img src="http://matthewaprice.com/assets/uchoose2.png"></p>
-<p><img src="http://matthewaprice.com/assets/uchoose3.png"></p>
+<p>
+<h4>Adding a new slider to the db</h4>
+<img src="http://matthewaprice.com/assets/uchoose1.png">
+</p>
+<p>
+<h4>Listing of Active Slider Images</h4>
+<img src="http://matthewaprice.com/assets/uchoose2.png">
+</p>
+<p>
+<h4>Editing a Slider Image</h4>
+<img src="http://matthewaprice.com/assets/uchoose3.png">
+</p>
+<p>
+<h4>Inactive Slider Images show up in a separate table below the Active Slider Images</h4>
+<img src="http://matthewaprice.com/assets/uchoose4.png">
+</p>
