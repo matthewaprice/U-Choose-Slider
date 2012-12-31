@@ -5,7 +5,7 @@ WordPress Plugin that simply stores data for a slider and then gives a template 
 
 
 For use with jQuery Cycle
-<code>
+<pre>
 &lt;script&gt;
 jQuery(document).ready(function() {
  	jQuery("#cycle").cycle({
@@ -32,10 +32,10 @@ jQuery(document).ready(function() {
 	&lt;/li&gt;
 	&lt;?php endforeach; ?&gt;		
 &lt;/ul&gt;
-</code>
+</pre>
 
 For use with Twitter Bootstrap's Carousel
-<code>
+<pre>
 &lt;script&gt;
 jQuery(document).ready(function() {
 	jQuery('.carousel').carousel();	
@@ -62,4 +62,4 @@ jQuery(document).ready(function() {
 	&lt;a class="carousel-control left" href="#my_carousel" data-slide="prev"&gt;&lsaquo;&lt;/a&gt;
 	&lt;a class="carousel-control right" href="#my_carousel" data-slide="next"&gt;&rsaquo;&lt;/a&gt;
 &lt;/div&gt;	
-</code>
+</pre>
