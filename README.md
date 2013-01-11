@@ -3,6 +3,11 @@ U-Choose-Slider
 
 WordPress Plugin that simply stores data for a slider and then gives a template tag so that you can use your own slider of choice.
 
+Unpack the zip folder and upload the "u-choose-slider" folder into your wp-content/plugins directory
+
+This will create a new top level menu item called "U Choose Slider"
+
+In this section you will be able to add/edit/enable/disable your slider images
 
 For use with jQuery Cycle
 <pre>
