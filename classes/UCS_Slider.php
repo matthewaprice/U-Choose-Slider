@@ -18,7 +18,7 @@ class UCS_Slider {
 		
 		$inserted = $updated = false;
 		
-		if ( isset( $_POST['submit'] ) && check_admin_referer('ucs-settings') ) :
+		if ( isset( $_POST['submit'] ) && check_admin_referer('ucs-add-new-slider-settings') ) :
 		
 			global $wpdb;
 			$values = array(
@@ -97,7 +97,7 @@ class UCS_Slider {
 						<td><input name="_slider_active" type="checkbox" id="_slider_active" value="1" class="regular-text" checked="checked"></td>
 					</tr>																				
 				</table>
-				<?php wp_nonce_field( 'ucs--settings' ); ?>				
+				<?php wp_nonce_field( 'ucs-add-new-slider-settings' ); ?>				
 				<p class="submit"><input type="submit" name="submit" id="submit" class="button-primary" value="Create Slider Image"></p>				
 			</form>
 			
